@@ -1,0 +1,23 @@
+body {
+    width: 60vw;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+header {
+    font-size: large;
+    text-align: center;
+}
+
+footer {
+    font-size: small;
+    text-align: center;
+    color: #0a0a0a;
+    padding: 2rem;
+}
+
+img, video, iframe {
+    width: 26rem;
+    display: block;
+    padding: 0.6rem;
+}
